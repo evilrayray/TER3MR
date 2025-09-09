@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Rayan Bashir"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "im me"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
