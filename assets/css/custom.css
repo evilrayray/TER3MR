@@ -1,4 +1,4 @@
 /* Make author avatar larger */
 .author__avatar img {
-  max-width: 150px; /* adjust this number */
+  max-width: 200px; /* adjust this number */
 }
