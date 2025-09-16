@@ -3,6 +3,8 @@
   max-width: 200px; /* adjust this number */
 }
 
-.page {
-  padding-inline-end: 100px;
+@media (min-width: 64em) {
+    .page {
+        padding-inline-end: 100px;
+    }
 }
