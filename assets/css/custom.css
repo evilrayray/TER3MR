@@ -2,3 +2,7 @@
 .author__avatar img {
   max-width: 200px; /* adjust this number */
 }
+
+.page {
+  padding-inline-end: 100px;
+}
