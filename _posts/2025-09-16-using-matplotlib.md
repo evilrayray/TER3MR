@@ -6,7 +6,7 @@ tags:
 ---
 Using matplotlib and Jupyter Notebook, I was able to create a graph of Anscombe's Quartet and get some statistics about it.
 
-To start, I created a bar graph of the first dataset.
+Before creating any graph, I imported matplotlib and listed all my values.
 
 ```ruby
 import matplotlib.pyplot as plt
@@ -19,12 +19,14 @@ y3 = [7.46, 6.77, 12.74, 7.11, 7.81, 8.84, 6.08, 5.39, 8.15, 6.42, 5.73]
 
 x4 = [8, 8, 8, 8, 8, 8, 8, 19, 8, 8, 8]
 y4 = [6.58, 5.76, 7.71, 8.84, 8.47, 7.04, 5.25, 12.50, 5.56, 7.91, 6.89]
+```
+To start, I first created a bar graph with the first dataset.
 
+```ruby
 plt.bar(x, y1)
 plt.xlabel("x")
 plt.ylabel("y1")
 plt.title("data visualization")
 plt.grid(True)
 ```
-
 
