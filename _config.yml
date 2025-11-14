@@ -62,13 +62,13 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/evilrayray"
+      url: "https://github.com/rayanbashir"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/evilrayray"
+      url: "https://github.com/rayanbashir"
 
 defaults:
   # _posts
